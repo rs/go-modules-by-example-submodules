@@ -2,7 +2,11 @@ github.com/rs/go-modules-by-example-submodules v1.0.0 h1:jZV8AxVmbYYZkWv6oPl30+K
 github.com/rs/go-modules-by-example-submodules v1.0.0/go.mod h1:itUSgP3SCGzX55ZDCnnQHsSBsTGdz8kGLiAL7K8+DZ4=
 github.com/rs/go-submodule v1.0.0 h1:86F8DZU8XXxrNAoXyWm+JPIzMr+rxym+WapOrODUIZ8=
 github.com/rs/go-submodule v1.0.0/go.mod h1:LWU7CicHoyaLOI/GI66AMS217f+tqtiV6Nko+/jb000=
+github.com/rs/go-submodule v1.0.2 h1:M9ebS3pqEjsC/eDpLNsUUFgnO5wg1OVJZstIAkLy3z0=
+github.com/rs/go-submodule v1.0.2/go.mod h1:LWU7CicHoyaLOI/GI66AMS217f+tqtiV6Nko+/jb000=
 github.com/rs/go-submodule/b v0.0.0-20181003015214-f80ad2a6237b h1:WyKGOe7CB/pPJsixksavVpmHgbdfv3LYDkgAaJoFuac=
 github.com/rs/go-submodule/b v0.0.0-20181003015214-f80ad2a6237b/go.mod h1:/SX7BPEsfH4DE/m2V0rmIeg5SDX/0KBky8dPFV4unNw=
 github.com/rs/go-submodule/b v0.0.0-20181003015637-ab40d0a57a88 h1:wNDMxn2BQk5mOCbb6jDKBw5h+2Q93MKlbLTdr/SWI1k=
 github.com/rs/go-submodule/b v0.0.0-20181003015637-ab40d0a57a88/go.mod h1:/SX7BPEsfH4DE/m2V0rmIeg5SDX/0KBky8dPFV4unNw=
+github.com/rs/go-submodule/b v0.0.0-20181003015754-b8cd37a991d4 h1:e1JGDNaqKmgSeM+/WzVKyazCtcHsPBLYt8ABOikvNtE=
+github.com/rs/go-submodule/b v0.0.0-20181003015754-b8cd37a991d4/go.mod h1:/SX7BPEsfH4DE/m2V0rmIeg5SDX/0KBky8dPFV4unNw=
