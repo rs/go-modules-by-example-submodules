@@ -1,1 +1,1 @@
-module github.com/rs/go-modules-by-example-submodules
+module github.com/rs/go-submodule
